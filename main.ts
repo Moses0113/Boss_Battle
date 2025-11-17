@@ -1,5 +1,6 @@
 //  by Mo Chit Moses in 2022
-//  Last update on the 22nd of November 2024
+//  Second update on the 22nd of November 2024
+//  Latest update on the 17th of November 2025 
 //  v.0.0.2
 //  Boss Battle
 let WaitTimePlayer = 400
@@ -146,6 +147,7 @@ let boss = sprites.create(img`
     `, SpriteKind.Enemy)
 boss.setPosition(80, 29)
 info.setLife(5)
+// No. of life
 info.setScore(0)
 let MAX = 12
 game.onUpdateInterval(2000, function on_update_interval() {

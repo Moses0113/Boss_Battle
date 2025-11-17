@@ -1,5 +1,6 @@
 # by Mo Chit Moses in 2022
-# Last update on the 22nd of November 2024
+# Second update on the 22nd of November 2024
+# Latest update on the 17th of November 2025 
 # v.0.0.2
 # Boss Battle
 
@@ -153,7 +154,7 @@ boss = sprites.create(img("""
     """),
     SpriteKind.enemy)
 boss.set_position(80, 29)
-info.set_life(5)
+info.set_life(5)                #No. of life
 info.set_score(0)
 MAX = 12
 
