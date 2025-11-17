@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://moses0113.github.io/boss_battle/](https://moses0113.github.io/boss_battle/)
+> Open this page at [https://moses0113.github.io/Boss_Battle/](https://moses0113.github.io/boss_battle/)
 
 ## Use as Extension
 
