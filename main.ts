@@ -145,7 +145,7 @@ let boss = sprites.create(img`
             ........................
     `, SpriteKind.Enemy)
 boss.setPosition(80, 29)
-info.setLife(3)
+info.setLife(5)
 info.setScore(0)
 let MAX = 12
 game.onUpdateInterval(2000, function on_update_interval() {

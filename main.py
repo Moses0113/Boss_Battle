@@ -153,7 +153,7 @@ boss = sprites.create(img("""
     """),
     SpriteKind.enemy)
 boss.set_position(80, 29)
-info.set_life(3)
+info.set_life(5)
 info.set_score(0)
 MAX = 12
 
